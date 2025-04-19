@@ -96,17 +96,6 @@ Retorna as estatísticas das transações ocorridas nos últimos **60 segundos**
 
 ---
 
-## 🧪 Testes
-
-O projeto conta com cobertura de testes unitários que validam:
-
-- Casos de sucesso e falha dos endpoints.
-- Validação de entrada.
-- Cálculo correto das estatísticas.
-- Regras de negócios.
-
----
-
 ## 🛠️ Build & Execução
 
 ### 🔧 Pré-requisitos:
